@@ -86,4 +86,4 @@ The dataset includes anonymized customer and transaction records, pulled from a 
 
 ## Dashboard Preview
 
-![Credit Card Dashboard](images/Credit_Card_dashboard.png)
+![Credit Card Dashboard](Credit_Card_dashboard.png)
